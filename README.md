@@ -1,1 +1,1 @@
-# light-organ-ontology
+# Light Organ Ontology
