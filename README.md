@@ -3,8 +3,8 @@
 In development...stay tuned!
 
 
-#Contact
+# Contact
 Please use this GitHub repository's Issue tracker to request new terms/classes or report errors or specific concerns related to the ontology.
 
-#Acknowledgments
+# Acknowledgments
 This project was created using WebProtege.
