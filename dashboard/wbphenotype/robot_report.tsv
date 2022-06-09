@@ -1,0 +1,8 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	obo:wbphenotype#phenotype_slim_wb	rdfs:label	
+WARN	missing_subset_declaration	obo:wbphenotype#phenotype_slim_wb	rdfs:subPropertyOf	
+WARN	missing_definition	obo:wbphenotype#phenotype_slim_wb	IAO:0000115	
+WARN	duplicate_label_synonym	exaggerated body bends	oboInOwl:hasExactSynonym	exaggerated body bends
+INFO	missing_superclass	nematode phenotype	rdfs:subClassOf	
+INFO	lowercase_definition	predatory behavior abnormal	IAO:0000115	(Pristionchus pacificus) Animals exhibit abnormal predatory behavior, compared to controls.
+INFO	lowercase_definition	reduced predatory feeding behavior	IAO:0000115	(Pristionchus pacificus) Animals exhibit reduced predatory feeding behavior, indicated by reduced predation success, compared to controls.

@@ -1,24 +1,29 @@
-# GOMBO: General Ontology of Marine Bioluminescent Organs
 
-In development...stay tuned!
+![Build Status](https://github.com/zmanalo/gombo/workflows/CI/badge.svg)
+# General Ontology for Marine Bioluminescent Organisms
 
+Description: None
 
-# Contact
-Please use this GitHub repository's Issue tracker to request new terms/classes or report errors or specific concerns related to the ontology.
+More information can be found at http://obofoundry.org/ontology/gombo
 
-# Acknowledgments
-This project was created using WebProtege. We thank Steph Nowotarski and Sophia Robb for their helpful Spiraliabase presentation and resources found here: https://github.com/planosphere/Spiraliabase-VLM-2020
+## Versions
 
+### Stable release versions
 
-# License
+The latest version of the ontology can always be found at:
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+http://purl.obolibrary.org/obo/gombo.owl
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+(note this will not show up until the request has been approved by obofoundry.org)
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+### Editors' version
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+Editors of this ontology should use the edit version, [src/ontology/gombo-edit.owl](src/ontology/gombo-edit.owl)
+
+## Contact
+
+Please use this GitHub repository's [Issue tracker](https://github.com/zmanalo/gombo/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
+
+## Acknowledgements
+
+This ontology repository was created using the [Ontology Development Kit (ODK)](https://github.com/INCATools/ontology-development-kit).

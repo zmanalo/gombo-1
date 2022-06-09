@@ -1,0 +1,6 @@
+base_generated: false
+changed: false
+failure: broken_metrics_file
+mirror_from: http://purl.obolibrary.org/obo/dpo/dpo-base.owl
+namespace: dpo
+sha256_hash: 854323466587df6c10351dba79554a3299dccea9b0af5108700111d667e2b095

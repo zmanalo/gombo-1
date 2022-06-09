@@ -1,0 +1,13 @@
+format-version: 1.2
+data-version: gombo/releases/2022-03-01/gombo-base.owl
+ontology: gombo/gombo-base
+property_value: http://purl.org/dc/elements/1.1/type IAO:8000001
+property_value: http://purl.org/dc/terms/description "None" xsd:string
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
+property_value: http://purl.org/dc/terms/title "General Ontology for Marine Bioluminescent Organisms" xsd:string
+property_value: owl:versionInfo "2022-03-01" xsd:string
+
+[Term]
+id: GOMBO:0000000
+name: root node
+

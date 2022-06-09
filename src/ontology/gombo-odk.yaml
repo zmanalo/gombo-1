@@ -1,0 +1,9 @@
+id: gombo
+title: General Ontology for Marine Bioluminescent Organisms
+github_org: zmanalo
+repo: gombo
+import_group:
+  products:
+    - id: ro
+    - id: bfo
+    - id: pato

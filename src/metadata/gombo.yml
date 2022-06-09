@@ -1,0 +1,27 @@
+# PURL configuration for http://purl.obolibrary.org/obo/gombo
+
+idspace: GOMBO
+base_url: /obo/gombo
+
+products:
+- gombo.owl: https://raw.githubusercontent.com/zmanalo/gombo/main/gombo.owl
+- gombo.obo: https://raw.githubusercontent.com/zmanalo/gombo/main/gombo.obo
+
+term_browser: ontobee
+example_terms:
+- GOMBO_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/zmanalo/gombo/v
+
+- prefix: /tracker/
+  replacement: https://github.com/zmanalo/gombo/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/GOMBO?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/zmanalo/gombo/main/

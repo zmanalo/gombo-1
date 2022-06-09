@@ -1,0 +1,61 @@
+base_generated: false
+base_prefixes:
+- FYPO
+- FYPOALT
+- FYPO
+changed: false
+failure: failed_ontology_dashboard
+last_ontology_dashboard_run_failed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 79811
+    Declaration: 9871
+    DisjointClasses: 1
+    EquivalentClasses: 5974
+    SubAnnotationPropertyOf: 2
+    SubClassOf: 9504
+    TransitiveObjectProperty: 1
+  'Axioms: Number of axioms': 105164
+  'Entities: % of entities reused': 19.5
+  'Entities: Number of annotation properties': 36
+  'Entities: Number of classes': 9821
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 20
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 56321
+    ObjectIntersectionOf: 6656
+    ObjectSomeValuesFrom: 21842
+  'Info: Does the ontology fall under OWL 2 DL?': false
+  'Info: Experimental OBO score':
+    _impact: 0.0
+    _impact_external: 0.25
+    _reuse: 0.195
+  'Info: How many externally documented uses?': 1
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    BFO: 6151
+    BTO: 212
+    CHEBI: 1763
+    CL: 763
+    FYPO: 34217
+    FYPOALT: 201
+    GO: 10484
+    IAO: 8150
+    PATO: 8408
+    PR: 28
+    RO: 10694
+    SO: 444
+    dc11: 1194
+    obo: 3615
+    oboInOwl: 96185
+    owl: 321
+    rdfs: 10644
+  'Info: Which ontologies use it?':
+  - fypo
+mirror_from: http://purl.obolibrary.org/obo/fypo/fypo-base.owl
+namespace: fypo
+sha256_hash: 2eb938419f95658ffe8ef0305260527bf81c35d91e19f4088d1e5216694d9638

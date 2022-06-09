@@ -1,0 +1,171 @@
+metrics:
+  abox_axiom_count: 0
+  abox_axiom_count_incl: 0
+  annotation_property_count: 23
+  annotation_property_count_incl: 23
+  axiom_count: 9673
+  axiom_count_incl: 9673
+  class_count: 1419
+  class_count_incl: 1419
+  consistent: true
+  dataproperty_count: 0
+  dataproperty_count_incl: 0
+  datatypes_count: 4
+  datatypes_count_incl: 4
+  dt_builtin_count: 4
+  dt_builtin_count_incl: 4
+  dt_notbuiltin_count: 0
+  dt_notbuiltin_count_incl: 0
+  expressivity: "ALE"
+  expressivity_incl: "ALE"
+  individual_count: 0
+  individual_count_incl: 0
+  logical_axiom_count: 1484
+  logical_axiom_count_incl: 1484
+  obj_property_count: 8
+  obj_property_count_incl: 8
+  ontology_anno_count: 7
+  ontology_iri: "http://purl.obolibrary.org/obo/phipo/phipo-base.owl"
+  ontology_version_iri: "http://purl.obolibrary.org/obo/phipo/releases/2021-07-14/phipo-base.owl"
+  owl2: true
+  owl2_dl: false
+  owl2_el: false
+  owl2_ql: false
+  owl2_rl: false
+  rbox_axiom_count: 0
+  rbox_axiom_count_incl: 0
+  rdfs: false
+  rule_count: 0
+  rule_count_incl: 0
+  signature_entity_count: 1454
+  signature_entity_count_incl: 1454
+  syntax: "RDF/XML Syntax"
+  tbox_axiom_count: 1484
+  tbox_axiom_count_incl: 1484
+  tboxrbox_axiom_count: 1484
+  tboxrbox_axiom_count_incl: 1484
+  unsatisfiable_class_count: 0
+  axiom_types:
+  - "AnnotationAssertion"
+  - "EquivalentClasses"
+  - "Declaration"
+  - "SubClassOf"
+  axiom_types_incl:
+  - "AnnotationAssertion"
+  - "EquivalentClasses"
+  - "Declaration"
+  - "SubClassOf"
+  constructs:
+  - "E"
+  - "AL"
+  constructs_incl:
+  - "E"
+  - "AL"
+  valid_imports: []
+  valid_imports_incl: []
+  axiom_type_count:
+    AnnotationAssertion: 6743
+    EquivalentClasses: 536
+    Declaration: 1446
+    SubClassOf: 948
+  axiom_type_count_incl:
+    AnnotationAssertion: 6743
+    EquivalentClasses: 536
+    Declaration: 1446
+    SubClassOf: 948
+  class_expression_count:
+    Class: 5858
+    ObjectSomeValuesFrom: 2007
+    ObjectIntersectionOf: 548
+  class_expression_count_incl:
+    Class: 5858
+    ObjectSomeValuesFrom: 2007
+    ObjectIntersectionOf: 548
+  curie_map:
+    CARO: "http://purl.obolibrary.org/obo/CARO_"
+    oboInOwl: "http://www.geneontology.org/formats/oboInOwl#"
+    owl: "http://www.w3.org/2002/07/owl#"
+    GO: "http://purl.obolibrary.org/obo/GO_"
+    xsd: "http://www.w3.org/2001/XMLSchema#"
+    PATO: "http://purl.obolibrary.org/obo/PATO_"
+    CL: "http://purl.obolibrary.org/obo/CL_"
+    rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+    BFO: "http://purl.obolibrary.org/obo/BFO_"
+    dc11: "http://purl.org/dc/elements/1.1/"
+    rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    CHEBI: "http://purl.obolibrary.org/obo/CHEBI_"
+    IAO: "http://purl.obolibrary.org/obo/IAO_"
+    PHIPO: "http://purl.obolibrary.org/obo/PHIPO_"
+    RO: "http://purl.obolibrary.org/obo/RO_"
+    obo: "http://purl.obolibrary.org/obo/"
+    dc: "http://purl.org/dc/terms/"
+  namespace_axiom_count:
+    CARO: 388
+    oboInOwl: 3450
+    owl: 205
+    GO: 173
+    PATO: 1094
+    CL: 30
+    rdfs: 1260
+    BFO: 551
+    dc11: 2
+    CHEBI: 616
+    IAO: 1058
+    PHIPO: 3558
+    RO: 1463
+    obo: 786
+    dc: 1
+  namespace_axiom_count_incl:
+    CARO: 388
+    oboInOwl: 3450
+    owl: 205
+    GO: 173
+    PATO: 1094
+    CL: 30
+    rdfs: 1260
+    BFO: 551
+    dc11: 2
+    CHEBI: 616
+    IAO: 1058
+    PHIPO: 3558
+    RO: 1463
+    obo: 786
+    dc: 1
+  namespace_entity_count:
+    CARO: 1
+    oboInOwl: 10
+    owl: 2
+    GO: 63
+    xsd: 3
+    CL: 3
+    PATO: 22
+    BFO: 3
+    rdfs: 2
+    dc11: 3
+    rdf: 1
+    CHEBI: 205
+    IAO: 1
+    PHIPO: 1126
+    RO: 4
+    obo: 4
+    dc: 1
+  namespace_entity_count_incl:
+    CARO: 1
+    oboInOwl: 10
+    owl: 2
+    GO: 63
+    xsd: 3
+    CL: 3
+    PATO: 22
+    BFO: 3
+    rdfs: 2
+    dc11: 3
+    rdf: 1
+    CHEBI: 205
+    IAO: 1
+    PHIPO: 1126
+    RO: 4
+    obo: 4
+    dc: 1
+  owl2dl_profile_violation:
+    UseOfUndeclaredAnnotationProperty: 1
